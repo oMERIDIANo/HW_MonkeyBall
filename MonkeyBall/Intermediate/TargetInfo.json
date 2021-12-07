@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MonkeyBall",
+			"Path": "C:\\Users\\tinhn\\OneDrive\\Documents\\Unreal Projects\\MonkeyBall\\Source\\MonkeyBall.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MonkeyBallEditor",
+			"Path": "C:\\Users\\tinhn\\OneDrive\\Documents\\Unreal Projects\\MonkeyBall\\Source\\MonkeyBallEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

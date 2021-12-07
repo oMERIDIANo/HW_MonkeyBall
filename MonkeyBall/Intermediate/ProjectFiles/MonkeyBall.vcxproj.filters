@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MonkeyBall.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F6AFB612-12F9-435C-B892-F6F6B2D33C4A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MonkeyBall.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MonkeyBallEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{AB918482-D805-441C-AC33-1D18581ED8E8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MonkeyBall">
+      <UniqueIdentifier>{51BCD5AA-AAEF-480F-A2B0-D72C343D5A6E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MonkeyBall\BasePlayer.cpp">
+      <Filter>Source\MonkeyBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonkeyBall\BasePlayer.h">
+      <Filter>Source\MonkeyBall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonkeyBall\Floor.cpp">
+      <Filter>Source\MonkeyBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonkeyBall\Floor.h">
+      <Filter>Source\MonkeyBall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonkeyBall\Item.cpp">
+      <Filter>Source\MonkeyBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonkeyBall\Item.h">
+      <Filter>Source\MonkeyBall</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MonkeyBall\MonkeyBall.Build.cs">
+      <Filter>Source\MonkeyBall</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MonkeyBall\MonkeyBall.cpp">
+      <Filter>Source\MonkeyBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonkeyBall\MonkeyBall.h">
+      <Filter>Source\MonkeyBall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MonkeyBall\MonkeyBallGameModeBase.cpp">
+      <Filter>Source\MonkeyBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MonkeyBall\MonkeyBallGameModeBase.h">
+      <Filter>Source\MonkeyBall</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

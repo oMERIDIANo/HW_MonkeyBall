@@ -1,0 +1,1453 @@
+﻿Log file open, 12/05/21 22:19:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MonkeyBall
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.197113
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9700F CPU @ 3.00GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Engine.ini]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Engine.ini]
+[2021.12.06-04.19.23:443][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Engine.ini]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.06-04.19.23:443][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Engine.ini]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.06-04.19.23:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Engine.ini]
+[2021.12.06-04.19.23:444][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Engine.ini]
+[2021.12.06-04.19.23:459][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.06-04.19.23:459][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.06-04.19.23:460][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.06-04.19.23:460][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.06-04.19.23:460][  0]LogHAL: Display: Platform has ~ 16 GB [17118740480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.06-04.19.23:460][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.06-04.19.23:460][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.06-04.19.23:460][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.06-04.19.23:461][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.06-04.19.23:462][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.06-04.19.23:462][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.06-04.19.23:462][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.06-04.19.23:462][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Engine.ini]
+[2021.12.06-04.19.23:462][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Config/Windows/Editor.ini]
+[2021.12.06-04.19.23:462][  0]LogInit: Computer: DESKTOP-L5TOG1P
+[2021.12.06-04.19.23:462][  0]LogInit: User: tinhn
+[2021.12.06-04.19.23:462][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.12.06-04.19.23:462][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.06-04.19.23:462][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.12.06-04.19.23:462][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.06-04.19.23:462][  0]LogMemory: Process Physical Memory: 143.16 MB used, 143.16 MB peak
+[2021.12.06-04.19.23:462][  0]LogMemory: Process Virtual Memory: 114.62 MB used, 114.62 MB peak
+[2021.12.06-04.19.23:462][  0]LogMemory: Physical Memory: 6104.08 MB used,  10221.62 MB free, 16325.70 MB total
+[2021.12.06-04.19.23:462][  0]LogMemory: Virtual Memory: 134203904.00 MB used,  13822.41 MB free, 134217728.00 MB total
+[2021.12.06-04.19.23:465][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.06-04.19.23:491][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.06-04.19.23:492][  0]LogInit: Using OS detected language (en-US).
+[2021.12.06-04.19.23:492][  0]LogInit: Using OS detected locale (en-US).
+[2021.12.06-04.19.23:495][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.12.06-04.19.23:665][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.06-04.19.23:671][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.06-04.19.23:681][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.06-04.19.23:681][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.06-04.19.23:782][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.12.06-04.19.23:783][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.06-04.19.23:783][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.06-04.19.23:783][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.06-04.19.23:783][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.06-04.19.23:886][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2021.12.06-04.19.23:886][  0]LogD3D11RHI:       8011/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.12.06-04.19.23:888][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.06-04.19.23:888][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.06-04.19.23:888][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.12.06-04.19.23:888][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070 SUPER
+[2021.12.06-04.19.23:888][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.12.06-04.19.23:888][  0]LogD3D11RHI:     DeviceId    : 1e84
+[2021.12.06-04.19.23:888][  0]LogD3D11RHI:     SubSysId    : 87081043
+[2021.12.06-04.19.23:888][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.12.06-04.19.23:888][  0]LogD3D11RHI:     DedicatedVideoMemory : 8400142336 bytes
+[2021.12.06-04.19.23:888][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.06-04.19.23:888][  0]LogD3D11RHI:     SharedSystemMemory : 8559370240 bytes
+[2021.12.06-04.19.23:888][  0]LogD3D11RHI:     AdapterLuid : 0 50307
+[2021.12.06-04.19.23:893][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.06-04.19.23:893][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.06-04.19.23:893][  0]LogWindows: EnumDisplayDevices:
+[2021.12.06-04.19.23:893][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2021.12.06-04.19.23:893][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2021.12.06-04.19.23:893][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.12.06-04.19.23:894][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.12.06-04.19.23:894][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.12.06-04.19.23:894][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2021.12.06-04.19.23:894][  0]LogD3D11RHI:   Driver Version: 471.96 (internal:30.0.14.7196, unified:471.96)
+[2021.12.06-04.19.23:894][  0]LogD3D11RHI:      Driver Date: 8-27-2021
+[2021.12.06-04.19.23:894][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2021.12.06-04.19.23:894][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.12.06-04.19.23:894][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070 SUPER
+[2021.12.06-04.19.23:894][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.12.06-04.19.23:894][  0]LogD3D11RHI:     DeviceId    : 1e84
+[2021.12.06-04.19.23:894][  0]LogD3D11RHI:     SubSysId    : 87081043
+[2021.12.06-04.19.23:894][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.12.06-04.19.23:894][  0]LogD3D11RHI:     DedicatedVideoMemory : 8400142336 bytes
+[2021.12.06-04.19.23:894][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.06-04.19.23:894][  0]LogD3D11RHI:     SharedSystemMemory : 8559370240 bytes
+[2021.12.06-04.19.23:894][  0]LogD3D11RHI:     AdapterLuid : 0 50307
+[2021.12.06-04.19.23:967][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.06-04.19.23:968][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.06-04.19.23:968][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.06-04.19.23:990][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.06-04.19.24:017][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.06-04.19.24:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.06-04.19.24:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.06-04.19.24:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.06-04.19.24:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.06-04.19.24:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.06-04.19.24:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.06-04.19.24:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.06-04.19.24:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.06-04.19.24:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.06-04.19.24:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.06-04.19.24:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.06-04.19.24:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.06-04.19.24:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.06-04.19.24:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.06-04.19.24:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.06-04.19.24:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.06-04.19.24:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.06-04.19.24:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.06-04.19.24:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.06-04.19.24:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.06-04.19.24:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.06-04.19.24:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.06-04.19.24:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.06-04.19.24:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.06-04.19.24:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.06-04.19.24:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.06-04.19.24:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.06-04.19.24:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.06-04.19.24:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.06-04.19.24:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.06-04.19.24:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.06-04.19.24:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.06-04.19.24:434][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.06-04.19.24:439][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.06-04.19.24:461][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.12.06-04.19.24:481][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.06-04.19.24:481][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Intermediate/Shaders/WorkingDirectory/5324/).
+[2021.12.06-04.19.24:481][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tinhn/AppData/Local/Temp/UnrealShaderWorkingDir/D08B51B04B351E6C21AC5D95EDA8C6D8/'.
+[2021.12.06-04.19.24:482][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.12.06-04.19.24:482][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.06-04.19.24:482][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.06-04.19.25:097][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.06-04.19.25:143][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/tinhn/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.06-04.19.25:143][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tinhn/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.12.06-04.19.25:143][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.06-04.19.25:143][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.06-04.19.25:143][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.06-04.19.25:143][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.06-04.19.25:156][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.06-04.19.25:156][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.06-04.19.25:156][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.06-04.19.25:162][  0]LogDerivedDataCache: Speed tests for C:/Users/tinhn/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.12.06-04.19.25:162][  0]LogDerivedDataCache: Display: Performance to C:/Users/tinhn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=491.33MBs, RandomWriteSpeed=284.30MBs. Assigned SpeedClass 'Local'
+[2021.12.06-04.19.25:162][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tinhn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.06-04.19.25:162][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.06-04.19.25:162][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.06-04.19.25:199][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.06-04.19.25:199][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.06-04.19.25:215][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.12.06-04.19.25:410][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.06-04.19.25:410][  0]LogInit: Active device profile: [0000016AFBFDD100][0000016AFCB9F6C0 49] Windows
+[2021.12.06-04.19.25:410][  0]LogInit: Profiles: [0000016AFBFDD100][0000016AFCB9F6C0 49] Windows, [0000016AFBF96700][0000016AFCC43840 49] WindowsNoEditor, [0000016AFBFDE200][0000016AF34BB9C0 49] WindowsServer, [0000016AFBF95900][0000016AF34C7B40 49] WindowsClient, [0000016AFBFDD700][0000016AFCC4A140 49] IOS, [0000016AFBF96900][0000016AFCC4E2C0 49] iPadAir, [0000016AFBFDFC00][0000016AFD098440 49] iPadAir2, [0000016AFBD8D400][0000016AFCC8A700 49] IPadPro, [0000016AFBD8D500][0000016AFD09C740 49] iPadAir3, [0000016AFBF97A00][0000016AF34FA8C0 49] iPadAir4, [0000016AFBD8E300][0000016AFCBA2A00 49] iPadMini2, [0000016AFBF97100][0000016AF3508B40 49] iPadMini3, [0000016AFBD8EF00][0000016AF350CC80 49] iPadMini4, [0000016AFBF95E00][0000016AF3510DC0 49] iPadMini5, [0000016AFBDD9000][0000016AF2FA3080 49] iPhone6, [0000016AFBDD9100][0000016AF305D0C0 49] iPodTouch6, [0000016AFBFDF900][0000016AF2FAB380 49] iPhone7, [0000016AFBFDE900][0000016AF2FA73C0 49] iPodTouch7, [0000016AFBD8D000][0000016AF3061540 49] iPhone5S, [0000016AFBFDEF00][0000016AF30656C0 49] iPhone6Plus, [0000016AFBD8F600][0000016AF3069840 49] iPhone6S, [0000016AFBFDCC00][0000016AF306D9C0 49] iPhone6SPlus, [0000016AFBFDDD00][0000016AEFF6FB40 49] iPhone7Plus, [0000016AFBDD8800][0000016AEFF72140 49] iPhoneSE, [0000016AFBFDC400][0000016AEFF762C0 49] iPhone8, [0000016AFBDD8900][0000016AEFF7A440 49] iPhone8Plus, [0000016AFBDDAE00][0000016AFCC1E5C0 49] iPhoneX, [0000016AFBD8DD00][0000016AEFF90740 49] iPhoneXS, [0000016AFBDDA700][0000016AEFF948C0 49] iPhoneXSMax, [0000016AFBD8DC00][0000016AEFF98A40 49] iPhoneXR, [0000016AFBDDA800][0000016AF3058B80 49] iPhone11, [0000016AFBD8CF00][0000016AFCC3ACC0 49] iPhone11Pro, [0000016AFBDD8B00][0000016AFCC3EE00 49] iPhone11ProMax, [0000016AFBD8CD00][0000016AFCD92F40 49] iPhoneSE2, [0000016AFBDD8E00][0000016AFCDA90C0 49] iPhone12Mini, [0000016AFBFDF800][0000016AFCDAD240 49] iPhone12, [0000016AFBDDB000][0000016AFCDB13C0 49] iPhone12Pro, [0000016AFBFDF700][0000016AFCDB5540 49] iPhone12ProMax, [0000016AFBDD9E00][0000016AFCDB96C0 49] iPadPro105, [0000016AFBFDD300][0000016AFCDBD840 49] iPadPro129, [0000016AFBDDBE00][0000016AF30099C0 49] iPadPro97, [0000016AFBFDDC00][0000016AF300DB40 49] iPadPro2_129, [0000016AFBDDA000][0000016AF3010140 49] iPad5, [0000016AFBFDE300][0000016AF30282C0 49] iPad6, [0000016AFBDDBB00][0000016AF34AA440 49] iPad7, [0000016AFBFDDE00][0000016AF34AE5C0 49] iPad8, [0000016AFBDD8A00][0000016AF34B2740 49] iPadPro11, [0000016AFBFDE600][0000016AF34B68C0 49] iPadPro2_11, [0000016AFBDD8F00][0000016AFCDC0A40 49] iPadPro3_129, [0000016AFBFDE800][0000016AFCE02BC0 49] iPadPro4_129, [0000016AFBDDBC00][0000016AFCE06D40 49] AppleTV, [0000016AFBFDDA00][0000016AFCDA4E80 49] AppleTV4K, [0000016AFBDDA600][0000016AFCE0EFC0 49] TVOS, [0000016AFBFDE100][0000016AFCE13100 49] Mac, [0000016AFBDDAF00][0000016AFCA75280 49] MacClient, [0000016AFBFDEA00][0000016AFCA79400 49] MacNoEditor, [0000016AFBDDAC00][0000016AFCE0B580 49] MacServer, [0000016AFBFDF000][0000016AFCDC5700 49] Linux, [0000016AFBDD8400][0000016AFCA89880 49] LinuxAArch64, [0000016AFBFDC700][0000016AFCA8DA00 49] LinuxNoEditor, [0000016AFBDDB700][0000016AFCA91B80 49] LinuxAArch64NoEditor, [0000016AFBFDFB00][0000016AFCBBC180 49] LinuxClient, [0000016AFBDDB400][0000016AEFF8C300 49] LinuxAArch64Client, [0000016AFBFDFE00][0000016AFCC52480 49] LinuxServer, [0000016AFBDD8700][0000016AFCC56600 49] LinuxAArch64Server, [0000016AFBFDDF00][0000016AFCBC0780 49] Android, [0000016AFBDDAA00][0000016AFCBC4900 49] Android_Low, [0000016AFBFDED00][0000016AFCBC8A80 49] Android_Mid, [0000016AFBDD9F00][0000016AFCBCCC00 49] Android_High, [0000016AFBFDEB00][0000016AFCBD0D80 49] Android_Default, [0000016AFBDD8100][0000016AFCBD4F00 49] Android_Adreno4xx, [0000016AFBFDC500][0000016AFCE17040 49] Android_Adreno5xx_Low, [0000016AFBDD9400][0000016AFCBD9180 49] Android_Adreno5xx, [0000016AFBFDF400][0000016AFCBDD2C0 49] Android_Adreno6xx, [0000016AFBDDA300][0000016AFCC67440 49] Android_Adreno6xx_Vulkan, [0000016AFBFDFD00][0000016AFCC6B5C0 49] Android_Mali_T6xx, [0000016AFBDD8200][0000016AFCC6F740 49] Android_Mali_T7xx, [0000016AFBFDF600][0000016AFCC738C0 49] Android_Mali_T8xx, [0000016AFBDDB200][0000016AFCC77A40 49] Android_Mali_G71, [0000016AFBD8F100][0000016AFCC7BBC0 49] Android_Mali_G72, [0000016AFBF96F00][0000016AFCC7E1C0 49] Android_Mali_G72_Vulkan, [0000016AFBD8EB00][0000016AFCC82340 49] Android_Mali_G76, [0000016AFBF94500][0000016AFCC864C0 49] Android_Mali_G76_Vulkan, [0000016AFBD8CC00][0000016AFD472640 49] Android_Mali_G77, [0000016AFBF94600][0000016AFD4767C0 49] Android_Mali_G77_Vulkan, [0000016AFBD8E400][0000016AFD47A940 49] Android_Mali_G78, [0000016AFBF94D00][0000016AFD47EAC0 49] Android_Mali_G78_Vulkan, [0000016AFBD8FD00][0000016AFD482C40 49] Android_Mali_G710, [0000016AFBF96B00][0000016AFD486DC0 49] Android_Mali_G710_Vulkan, [0000016AFBD8EA00][0000016AFD48AF40 49] Android_Vulkan_SM5, [0000016AFBF95A00][0000016AFD48F0C0 49] Android_PowerVR_G6xxx, [0000016AFBD8C500][0000016AFCC63200 49] Android_PowerVR_GT7xxx, [0000016AFBF94200][0000016AFD493340 49] Android_PowerVR_GE8xxx, [0000016AFBD8FB00][0000016AFD497480 49] Android_PowerVR_GM9xxx, [0000016AFBF96100][0000016AFD49B5C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000016AFBD8DF00][0000016AFD4A3740 49] Android_TegraK1, [0000016AFBF94A00][0000016AFD4A78C0 49] Android_Unknown_Vulkan, [0000016AFBD8F900][0000016AFD4ABA40 49] Lumin, [0000016AFBF95100][0000016AF2F35BC0 49] Lumin_Desktop, [0000016AFBD8E000][0000016AF2F381C0 49] HoloLens, 
+[2021.12.06-04.19.25:509][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.06-04.19.25:509][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.06-04.19.25:509][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.06-04.19.25:509][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.06-04.19.25:509][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.06-04.19.25:520][  0]LogNetVersion: MonkeyBall 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 373798509)
+[2021.12.06-04.19.25:803][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.06-04.19.25:844][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.06-04.19.25:848][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.12.06-04.19.25:848][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.12.06-04.19.25:848][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.06-04.19.25:962][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 7CCBE36D41E13ADDB692398E375B4CC8 | Instance: 1AE14EF34461D06F9AD684A1CDCE5384 (DESKTOP-L5TOG1P-5324).
+[2021.12.06-04.19.26:047][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.06-04.19.26:047][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.06-04.19.26:047][  0]LogPython: Using Python 3.7.7
+[2021.12.06-04.19.26:450][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.06-04.19.26:453][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.06-04.19.26:576][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.12.06-04.19.26:576][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.12.06-04.19.26:576][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2021.12.06-04.19.26:639][  0]SourceControl: Source control is disabled
+[2021.12.06-04.19.26:639][  0]SourceControl: Source control is disabled
+[2021.12.06-04.19.26:641][  0]SourceControl: Source control is disabled
+[2021.12.06-04.19.26:643][  0]SourceControl: Source control is disabled
+[2021.12.06-04.19.26:649][  0]SourceControl: Source control is disabled
+[2021.12.06-04.19.26:653][  0]LogUProjectInfo: Found projects:
+[2021.12.06-04.19.26:776][  0]LogOpenImageDenoise: OIDN starting up
+[2021.12.06-04.19.26:784][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.06-04.19.26:794][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.06-04.19.26:794][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.06-04.19.26:933][  0]LogOcInput: OculusInput pre-init called
+[2021.12.06-04.19.27:066][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.06-04.19.27:066][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.06-04.19.27:066][  0]LogCollectionManager: Loaded 0 collections in 0.001267 seconds
+[2021.12.06-04.19.27:111][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Saved/Collections/' took 0.00s
+[2021.12.06-04.19.27:111][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Content/Developers/tinhn/Collections/' took 0.00s
+[2021.12.06-04.19.27:111][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Content/Collections/' took 0.00s
+[2021.12.06-04.19.27:111][  0]LogEngine: Initializing Engine...
+[2021.12.06-04.19.27:113][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.12.06-04.19.27:113][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.06-04.19.27:113][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.06-04.19.27:114][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.06-04.19.27:214][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.06-04.19.27:219][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.06-04.19.27:219][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.06-04.19.27:222][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.12.06-04.19.27:222][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.12.06-04.19.27:222][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.06-04.19.27:222][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.06-04.19.27:223][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-04.19.27:223][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-04.19.27:223][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-04.19.27:223][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-04.19.27:223][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-04.19.27:223][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-04.19.27:223][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-04.19.27:223][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-04.19.27:223][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-04.19.27:223][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-04.19.27:223][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-04.19.27:223][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-04.19.27:230][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-04.19.27:230][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-04.19.27:244][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.06-04.19.27:247][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-04.19.27:248][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-04.19.27:248][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-04.19.27:249][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-04.19.27:249][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-04.19.27:249][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-04.19.27:249][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-04.19.27:250][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-04.19.27:250][  0]LogInit: FAudioDevice initialized.
+[2021.12.06-04.19.27:250][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.06-04.19.27:250][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.06-04.19.27:317][  0]LogDerivedDataCache: Saved boot cache 0.07s 94MB C:/Users/tinhn/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.06-04.19.27:317][  0]LogInit: Texture streaming: Enabled
+[2021.12.06-04.19.27:325][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2021.12.06-04.19.27:327][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.06-04.19.27:327][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.06-04.19.27:329][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.06-04.19.27:346][  0]LogInit: Transaction tracking system initialized
+[2021.12.06-04.19.27:361][  0]BlueprintLog: New page: Editor Load
+[2021.12.06-04.19.27:408][  0]LocalizationService: Localization service is disabled
+[2021.12.06-04.19.27:424][  0]TimingProfiler: Initialize
+[2021.12.06-04.19.27:424][  0]TimingProfiler: OnSessionChanged
+[2021.12.06-04.19.27:424][  0]LoadingProfiler: Initialize
+[2021.12.06-04.19.27:424][  0]LoadingProfiler: OnSessionChanged
+[2021.12.06-04.19.27:424][  0]NetworkingProfiler: Initialize
+[2021.12.06-04.19.27:424][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.06-04.19.27:424][  0]MemoryProfiler: Initialize
+[2021.12.06-04.19.27:424][  0]MemoryProfiler: OnSessionChanged
+[2021.12.06-04.19.27:528][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.06-04.19.27:528][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.06-04.19.27:559][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Content/' took 0.00s
+[2021.12.06-04.19.27:788][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.06-04.19.27:788][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.06-04.19.27:788][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.06-04.19.27:790][  0]SourceControl: Source control is disabled
+[2021.12.06-04.19.27:790][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.272
+[2021.12.06-04.19.27:790][  0]Cmd: MAP LOAD FILE="../../../../../../Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Content/Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.06-04.19.27:790][  0]LightingResults: New page: Lighting Build
+[2021.12.06-04.19.27:791][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-04.19.27:791][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-04.19.27:791][  0]MapCheck: New page: Map Check
+[2021.12.06-04.19.27:791][  0]LightingResults: New page: Lighting Build
+[2021.12.06-04.19.27:795][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-04.19.27:797][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.12.06-04.19.27:852][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level'.
+[2021.12.06-04.19.27:852][  0]LogAIModule: Creating AISystem for world Level
+[2021.12.06-04.19.27:856][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.06-04.19.27:864][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.12.06-04.19.27:864][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.06-04.19.27:864][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2021.12.06-04.19.27:864][  0]LogFileHelpers: Loading map 'Level' took 0.074
+[2021.12.06-04.19.27:866][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.349
+[2021.12.06-04.19.27:972][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-04.19.27:977][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-04.19.27:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-04.19.27:986][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-04.19.28:001][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0075 seconds. Added 3825 classes and 930 folders.
+[2021.12.06-04.19.28:005][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.12.06-04.19.28:014][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.06-04.19.28:015][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:015][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.06-04.19.28:015][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:015][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.12.06-04.19.28:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.12.06-04.19.28:021][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.06-04.19.28:021][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:021][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.06-04.19.28:021][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:021][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.12.06-04.19.28:021][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.12.06-04.19.28:025][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.06-04.19.28:025][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.06-04.19.28:025][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:025][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.12.06-04.19.28:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.12.06-04.19.28:027][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.06-04.19.28:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.06-04.19.28:027][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:027][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.12.06-04.19.28:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.12.06-04.19.28:032][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.06-04.19.28:032][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:032][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.06-04.19.28:032][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:032][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.12.06-04.19.28:032][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.12.06-04.19.28:037][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.06-04.19.28:037][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:037][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.06-04.19.28:037][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:037][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.12.06-04.19.28:037][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.12.06-04.19.28:042][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.06-04.19.28:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.06-04.19.28:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.12.06-04.19.28:042][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.12.06-04.19.28:047][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.06-04.19.28:047][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:047][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.06-04.19.28:047][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:047][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.12.06-04.19.28:047][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.12.06-04.19.28:052][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.06-04.19.28:052][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:052][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.06-04.19.28:052][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:052][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.12.06-04.19.28:052][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.12.06-04.19.28:059][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.06-04.19.28:059][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:059][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.06-04.19.28:059][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:060][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.12.06-04.19.28:060][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.12.06-04.19.28:072][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.06-04.19.28:072][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:072][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.06-04.19.28:072][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:072][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.12.06-04.19.28:072][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.12.06-04.19.28:094][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.06-04.19.28:094][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:094][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.06-04.19.28:094][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:094][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.12.06-04.19.28:094][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.12.06-04.19.28:099][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.06-04.19.28:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.06-04.19.28:099][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:099][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.12.06-04.19.28:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.12.06-04.19.28:103][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.06-04.19.28:103][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.06-04.19.28:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.12.06-04.19.28:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.12.06-04.19.28:107][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.06-04.19.28:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.06-04.19.28:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.12.06-04.19.28:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.12.06-04.19.28:112][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.06-04.19.28:112][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:112][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.06-04.19.28:112][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:112][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.12.06-04.19.28:112][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.12.06-04.19.28:117][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.06-04.19.28:117][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:117][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.06-04.19.28:117][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:117][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.12.06-04.19.28:117][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.12.06-04.19.28:122][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.06-04.19.28:122][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:122][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.06-04.19.28:122][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:122][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.12.06-04.19.28:122][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.06-04.19.28:127][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.06-04.19.28:127][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:127][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.06-04.19.28:127][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:127][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.12.06-04.19.28:127][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.06-04.19.28:134][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.06-04.19.28:134][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:134][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.06-04.19.28:134][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:134][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.12.06-04.19.28:134][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.12.06-04.19.28:139][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.06-04.19.28:139][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:139][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.06-04.19.28:139][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:139][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.12.06-04.19.28:139][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.12.06-04.19.28:143][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.06-04.19.28:143][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:143][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.06-04.19.28:143][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:143][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.12.06-04.19.28:143][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.12.06-04.19.28:148][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.06-04.19.28:148][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:148][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.06-04.19.28:148][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:148][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.12.06-04.19.28:148][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.12.06-04.19.28:153][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.06-04.19.28:153][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.06-04.19.28:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.12.06-04.19.28:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.12.06-04.19.28:158][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.06-04.19.28:158][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:158][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.06-04.19.28:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.12.06-04.19.28:158][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.12.06-04.19.28:163][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.06-04.19.28:163][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-04.19.28:163][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.06-04.19.28:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.06-04.19.28:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.12.06-04.19.28:163][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.12.06-04.19.28:365][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.12.06-04.19.28:366][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.12.06-04.19.28:430][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.06-04.19.28:436][  0]LogSlate: Took 0.005126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.06-04.19.28:437][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.06-04.19.28:541][  0]LogRenderer: Reallocating scene render targets to support 1040x608 Format 10 NumSamples 1 (Frame:1).
+[2021.12.06-04.19.28:576][  0]LogSlate: Took 0.004992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.06-04.19.28:611][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.12.06-04.19.28:611][  0]LogLoad: (Engine Initialization) Total time: 6.09 seconds
+[2021.12.06-04.19.28:611][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.06-04.19.28:647][  0]LogAssetRegistry: Asset discovery search completed in 3.4323 seconds
+[2021.12.06-04.19.28:652][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.12.06-04.19.28:653][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.06-04.33.43:836][154]Candidate modules for hot reload:
+[2021.12.06-04.33.43:836][154]  MonkeyBall
+[2021.12.06-04.33.43:836][154]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBall,4715 MonkeyBallEditor Win64 Development -Project="C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject" "C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject"  -IgnoreJunk]
+[2021.12.06-04.33.43:838][154]Warning: Starting HotReload took  0.0s.
+[2021.12.06-04.33.52:447][376]CompilerResultsLog: New page: Compilation - Dec 5, 2021, 4:33:52 PM
+[2021.12.06-04.33.52:448][376]CompilerResultsLog: Parsing headers for MonkeyBallEditor
+[2021.12.06-04.33.52:448][376]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\MonkeyBall.uproject" "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\MonkeyBallEditor\Development\MonkeyBallEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\tinhn\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.06-04.33.52:448][376]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.06-04.33.52:448][376]CompilerResultsLog: Reflection code generated for MonkeyBallEditor in 3.8710793 seconds
+[2021.12.06-04.33.52:448][376]CompilerResultsLog: Building MonkeyBallEditor...
+[2021.12.06-04.33.52:448][376]CompilerResultsLog: Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.06-04.33.52:448][376]CompilerResultsLog: Building 8 actions with 8 processes...
+[2021.12.06-04.33.52:448][376]CompilerResultsLog:   [1/8] MonkeyBall.init.gen.cpp
+[2021.12.06-04.33.52:448][376]CompilerResultsLog:   [2/8] Item.cpp
+[2021.12.06-04.33.52:448][376]CompilerResultsLog:   [3/8] Item.gen.cpp
+[2021.12.06-04.33.52:448][376]CompilerResultsLog:   [4/8] BasePlayer.gen.cpp
+[2021.12.06-04.33.52:448][376]CompilerResultsLog:   [5/8] BasePlayer.cpp
+[2021.12.06-04.33.52:448][376]CompilerResultsLog:   [6/8] UE4Editor-MonkeyBall-4715.lib
+[2021.12.06-04.33.52:448][376]CompilerResultsLog:      Creating library C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBall\UE4Editor-MonkeyBall-4715.lib and object C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBall\UE4Editor-MonkeyBall-4715.exp
+[2021.12.06-04.33.52:448][376]CompilerResultsLog:   [7/8] UE4Editor-MonkeyBall-4715.dll
+[2021.12.06-04.33.52:448][376]CompilerResultsLog:      Creating library C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBall\UE4Editor-MonkeyBall-4715.suppressed.lib and object C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBall\UE4Editor-MonkeyBall-4715.suppressed.exp
+[2021.12.06-04.33.52:448][376]CompilerResultsLog:   [8/8] MonkeyBallEditor.target
+[2021.12.06-04.33.52:448][376]CompilerResultsLog: Total time in Parallel executor: 3.58 seconds
+[2021.12.06-04.33.52:448][376]CompilerResultsLog: Total execution time: 8.46 seconds
+[2021.12.06-04.33.52:448][376]LogMainFrame: MainFrame: Module compiling took 8.628 seconds
+[2021.12.06-04.33.52:466][376]LogClass: Could not find existing class BasePlayer in package /Script/MonkeyBall for HotReload, assuming new class
+[2021.12.06-04.33.52:466][376]LogClass: Function OnOverlapBegin is new.
+[2021.12.06-04.33.52:470][376]LogHotReload: Re-instancing BasePlayer after hot-reload.
+[2021.12.06-04.33.52:474][376]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MonkeyBall' in 0.0002 seconds. Added 3 classes and 2 folders.
+[2021.12.06-04.33.52:476][376]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.12.06-04.33.52:519][376]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0079 seconds. Added 3825 classes and 930 folders.
+[2021.12.06-04.33.52:519][376]Display: HotReload took  8.7s.
+[2021.12.06-04.41.12:512][691]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.06-04.41.12:516][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-04.41.12:516][691]PIE: New page: PIE session: Level (Dec 5, 2021, 4:41:12 PM)
+[2021.12.06-04.41.12:517][691]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.06-04.41.12:518][691]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.06-04.41.12:518][691]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2021.12.06-04.41.12:521][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002426s)
+[2021.12.06-04.41.12:522][691]LogAIModule: Creating AISystem for world Level
+[2021.12.06-04.41.12:522][691]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2021.12.06-04.41.12:522][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.003649s)
+[2021.12.06-04.41.12:527][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.12.06-04.41.12:528][691]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.06-04.41.12:528][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-04.41.12:528][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-04.41.12:528][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-04.41.12:528][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-04.41.12:529][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-04.41.12:529][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-04.41.12:529][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-04.41.12:529][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-04.41.12:529][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-04.41.12:529][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-04.41.12:529][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-04.41.12:529][691]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-04.41.12:531][691]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-04.41.12:531][691]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-04.41.12:541][691]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.06-04.41.12:541][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-04.41.12:541][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-04.41.12:541][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-04.41.12:542][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-04.41.12:542][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-04.41.12:542][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-04.41.12:543][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-04.41.12:543][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-04.41.12:543][691]LogInit: FAudioDevice initialized.
+[2021.12.06-04.41.12:543][691]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level'.
+[2021.12.06-04.41.12:551][691]LogLoad: Game class is 'BP_MyGameMode_C'
+[2021.12.06-04.41.12:552][691]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2021.12.05-22.41.12
+[2021.12.06-04.41.12:552][691]LogWorld: Bringing up level for play took: 0.000576
+[2021.12.06-04.41.12:552][691]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.12.06-04.41.12:577][691]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.12.06-04.41.12:577][691]PIE: Server logged in
+[2021.12.06-04.41.12:579][691]PIE: Play in editor total start time 0.063 seconds.
+[2021.12.06-04.41.42:012][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-04.41.42:013][200]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2021.12.06-04.41.42:013][200]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-04.41.42:013][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-04.41.42:028][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-04.41.42:030][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-04.41.42:037][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-04.41.42:037][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-04.41.42:038][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-04.41.42:040][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-04.41.42:041][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.12.06-04.41.42:071][202]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.12.06-04.45.42:676][419]Candidate modules for hot reload:
+[2021.12.06-04.45.42:676][419]  MonkeyBall
+[2021.12.06-04.45.42:676][419]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBall,9183 MonkeyBallEditor Win64 Development -Project="C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject" "C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject"  -IgnoreJunk]
+[2021.12.06-04.45.42:677][419]Warning: Starting HotReload took  0.0s.
+[2021.12.06-04.45.46:989][907]CompilerResultsLog: New page: Compilation - Dec 5, 2021, 4:45:46 PM
+[2021.12.06-04.45.46:989][907]CompilerResultsLog: Parsing headers for MonkeyBallEditor
+[2021.12.06-04.45.46:989][907]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\MonkeyBall.uproject" "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\MonkeyBallEditor\Development\MonkeyBallEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\tinhn\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.06-04.45.46:989][907]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.06-04.45.46:989][907]CompilerResultsLog: Error: C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Source/MonkeyBall/BasePlayer.h(66)  : Error: Unrecognized type 'void' - type must be a UCLASS, USTRUCT or UENUM
+[2021.12.06-04.45.46:989][907]LogMainFrame: MainFrame: Module compiling took 4.323 seconds
+[2021.12.06-04.45.47:001][907]Warning: HotReload failed, recompile failed
+[2021.12.06-04.45.48:809][119]LogSlate: Took 0.001187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.06-04.46.08:044][989]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-04.46.08:046][989]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-04.46.08:770][ 74]Candidate modules for hot reload:
+[2021.12.06-04.46.08:770][ 74]  MonkeyBall
+[2021.12.06-04.46.08:770][ 74]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBall,9612 MonkeyBallEditor Win64 Development -Project="C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject" "C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject"  -IgnoreJunk]
+[2021.12.06-04.46.08:772][ 74]Warning: Starting HotReload took  0.0s.
+[2021.12.06-04.46.13:913][657]CompilerResultsLog: New page: Compilation - Dec 5, 2021, 4:46:13 PM
+[2021.12.06-04.46.13:913][657]CompilerResultsLog: Parsing headers for MonkeyBallEditor
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\MonkeyBall.uproject" "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\MonkeyBallEditor\Development\MonkeyBallEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\tinhn\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.06-04.46.13:913][657]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.06-04.46.13:913][657]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h!
+[2021.12.06-04.46.13:913][657]CompilerResultsLog: Reflection code generated for MonkeyBallEditor in 3.5630303 seconds
+[2021.12.06-04.46.13:913][657]CompilerResultsLog: Building MonkeyBallEditor...
+[2021.12.06-04.46.13:913][657]CompilerResultsLog: Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.06-04.46.13:913][657]CompilerResultsLog: Building 8 actions with 8 processes...
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:   [1/8] Item.gen.cpp
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C2059: syntax error: ')'
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:   [2/8] Item.cpp
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C2059: syntax error: ')'
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:   [3/8] BasePlayer.gen.cpp
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall/BasePlayer.h(66) : error C2059: syntax error: ')'
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:   [4/8] BasePlayer.cpp
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C2059: syntax error: ')'
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(88) : error C2751: 'AItem::OnOverlapBegin': the name of a function parameter cannot be qualified
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(89) : error C2511: 'void ABasePlayer::OnOverlapBegin(void (__cdecl *)(UPrimitiveComponent *,AActor *,UPrimitiveComponent *,int32,bool,const FHitResult &))': overloaded member function not found in 'ABasePlayer'
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:   C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(15): note: see declaration of 'ABasePlayer'
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(90) : error C2065: 'OtherActor': undeclared identifier
+[2021.12.06-04.46.13:913][657]CompilerResultsLog:   [5/8] MonkeyBall.init.gen.cpp
+[2021.12.06-04.46.13:913][657]LogMainFrame: MainFrame: Module compiling took 5.145 seconds
+[2021.12.06-04.46.13:913][657]Warning: HotReload failed, recompile failed
+[2021.12.06-04.48.01:554][404]Candidate modules for hot reload:
+[2021.12.06-04.48.01:554][404]  MonkeyBall
+[2021.12.06-04.48.01:554][404]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBall,6162 MonkeyBallEditor Win64 Development -Project="C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject" "C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject"  -IgnoreJunk]
+[2021.12.06-04.48.01:556][404]Warning: Starting HotReload took  0.0s.
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog: New page: Compilation - Dec 5, 2021, 4:48:07 PM
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog: Parsing headers for MonkeyBallEditor
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\MonkeyBall.uproject" "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\MonkeyBallEditor\Development\MonkeyBallEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\tinhn\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h!
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog: Reflection code generated for MonkeyBallEditor in 3.5824953 seconds
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog: Building MonkeyBallEditor...
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog: Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog: Building 8 actions with 8 processes...
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog:   [1/8] MonkeyBall.init.gen.cpp
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog:   [2/8] BasePlayer.cpp
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(88) : error C2039: 'OnOverlapBegin': is not a member of 'ABasePlayer'
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog:   C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(15): note: see declaration of 'ABasePlayer'
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(88) : error C2751: 'AItem::OnOverlapBegin': the name of a function parameter cannot be qualified
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(90) : error C2065: 'OtherActor': undeclared identifier
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog:   [3/8] BasePlayer.gen.cpp
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog:   [4/8] Item.cpp
+[2021.12.06-04.48.07:621][ 98]CompilerResultsLog:   [5/8] Item.gen.cpp
+[2021.12.06-04.48.07:621][ 98]LogMainFrame: MainFrame: Module compiling took 6.070 seconds
+[2021.12.06-04.48.07:621][ 98]Warning: HotReload failed, recompile failed
+[2021.12.06-04.48.42:834][ 97]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-04.48.42:835][ 97]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-04.48.43:856][200]Candidate modules for hot reload:
+[2021.12.06-04.48.43:856][200]  MonkeyBall
+[2021.12.06-04.48.43:856][200]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBall,1549 MonkeyBallEditor Win64 Development -Project="C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject" "C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject"  -IgnoreJunk]
+[2021.12.06-04.48.43:857][200]Warning: Starting HotReload took  0.1s.
+[2021.12.06-04.48.48:716][750]CompilerResultsLog: New page: Compilation - Dec 5, 2021, 4:48:48 PM
+[2021.12.06-04.48.48:716][750]CompilerResultsLog: Parsing headers for MonkeyBallEditor
+[2021.12.06-04.48.48:716][750]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\MonkeyBall.uproject" "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\MonkeyBallEditor\Development\MonkeyBallEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\tinhn\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.06-04.48.48:716][750]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.06-04.48.48:716][750]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h!
+[2021.12.06-04.48.48:716][750]CompilerResultsLog: Reflection code generated for MonkeyBallEditor in 3.4490782 seconds
+[2021.12.06-04.48.48:716][750]CompilerResultsLog: Building MonkeyBallEditor...
+[2021.12.06-04.48.48:716][750]CompilerResultsLog: Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.06-04.48.48:716][750]CompilerResultsLog: Building 8 actions with 8 processes...
+[2021.12.06-04.48.48:716][750]CompilerResultsLog:   [1/8] Item.gen.cpp
+[2021.12.06-04.48.48:716][750]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C2059: syntax error: ')'
+[2021.12.06-04.48.48:716][750]CompilerResultsLog:   [2/8] BasePlayer.cpp
+[2021.12.06-04.48.48:716][750]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C2059: syntax error: ')'
+[2021.12.06-04.48.48:716][750]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(88) : error C2059: syntax error: ')'
+[2021.12.06-04.48.48:716][750]CompilerResultsLog:   [3/8] Item.cpp
+[2021.12.06-04.48.48:716][750]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C2059: syntax error: ')'
+[2021.12.06-04.48.48:716][750]CompilerResultsLog:   [4/8] BasePlayer.gen.cpp
+[2021.12.06-04.48.48:716][750]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall/BasePlayer.h(66) : error C2059: syntax error: ')'
+[2021.12.06-04.48.48:716][750]CompilerResultsLog:   [5/8] MonkeyBall.init.gen.cpp
+[2021.12.06-04.48.48:716][750]LogMainFrame: MainFrame: Module compiling took 4.863 seconds
+[2021.12.06-04.48.48:717][750]Warning: HotReload failed, recompile failed
+[2021.12.06-04.51.34:870][309]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-04.51.34:873][309]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-04.51.38:489][690]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Source/MonkeyBall/MonkeyBallGameModeBase.cpp'
+[2021.12.06-04.51.42:663][113]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/Source/MonkeyBall/BasePlayer.h'
+[2021.12.06-04.58.35:337][918]LogSlate: Took 0.001609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.06-04.58.36:044][920]Candidate modules for hot reload:
+[2021.12.06-04.58.36:044][920]  MonkeyBall
+[2021.12.06-04.58.36:045][920]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBall,4646 MonkeyBallEditor Win64 Development -Project="C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject" "C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject"  -IgnoreJunk]
+[2021.12.06-04.58.36:046][920]Warning: Starting HotReload took  0.0s.
+[2021.12.06-04.58.37:169][ 30]CompilerResultsLog: New page: Compilation - Dec 5, 2021, 4:58:37 PM
+[2021.12.06-04.58.37:169][ 30]CompilerResultsLog: Building MonkeyBallEditor...
+[2021.12.06-04.58.37:169][ 30]CompilerResultsLog: Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.06-04.58.37:169][ 30]CompilerResultsLog: Building 7 actions with 8 processes...
+[2021.12.06-04.58.37:169][ 30]CompilerResultsLog:   [1/7] Item.cpp
+[2021.12.06-04.58.37:169][ 30]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C2059: syntax error: ')'
+[2021.12.06-04.58.37:169][ 30]CompilerResultsLog:   [2/7] BasePlayer.cpp
+[2021.12.06-04.58.37:169][ 30]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C2059: syntax error: ')'
+[2021.12.06-04.58.37:169][ 30]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(88) : error C2059: syntax error: ')'
+[2021.12.06-04.58.37:169][ 30]CompilerResultsLog:   [3/7] Item.gen.cpp
+[2021.12.06-04.58.37:169][ 30]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C2059: syntax error: ')'
+[2021.12.06-04.58.37:169][ 30]CompilerResultsLog:   [4/7] BasePlayer.gen.cpp
+[2021.12.06-04.58.37:169][ 30]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall/BasePlayer.h(66) : error C2059: syntax error: ')'
+[2021.12.06-04.58.37:169][ 30]LogMainFrame: MainFrame: Module compiling took 1.127 seconds
+[2021.12.06-04.58.37:169][ 30]Warning: HotReload failed, recompile failed
+[2021.12.06-04.59.17:865][374]Candidate modules for hot reload:
+[2021.12.06-04.59.17:865][374]  MonkeyBall
+[2021.12.06-04.59.17:865][374]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBall,0414 MonkeyBallEditor Win64 Development -Project="C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject" "C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject"  -IgnoreJunk]
+[2021.12.06-04.59.17:867][374]Warning: Starting HotReload took  0.0s.
+[2021.12.06-04.59.22:954][943]CompilerResultsLog: New page: Compilation - Dec 5, 2021, 4:59:22 PM
+[2021.12.06-04.59.22:954][943]CompilerResultsLog: Parsing headers for MonkeyBallEditor
+[2021.12.06-04.59.22:954][943]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\MonkeyBall.uproject" "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\MonkeyBallEditor\Development\MonkeyBallEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\tinhn\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.06-04.59.22:954][943]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.06-04.59.22:954][943]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h!
+[2021.12.06-04.59.22:954][943]CompilerResultsLog: Reflection code generated for MonkeyBallEditor in 3.4072303 seconds
+[2021.12.06-04.59.22:954][943]CompilerResultsLog: Building MonkeyBallEditor...
+[2021.12.06-04.59.22:954][943]CompilerResultsLog: Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.06-04.59.22:954][943]CompilerResultsLog: Building 7 actions with 8 processes...
+[2021.12.06-04.59.22:954][943]CompilerResultsLog:   [1/7] BasePlayer.cpp
+[2021.12.06-04.59.22:954][943]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(88) : error C2059: syntax error: ')'
+[2021.12.06-04.59.22:954][943]CompilerResultsLog:   [2/7] BasePlayer.gen.cpp
+[2021.12.06-04.59.22:954][943]CompilerResultsLog:   [3/7] Item.cpp
+[2021.12.06-04.59.22:954][943]CompilerResultsLog:   [4/7] Item.gen.cpp
+[2021.12.06-04.59.22:954][943]LogMainFrame: MainFrame: Module compiling took 5.091 seconds
+[2021.12.06-04.59.22:954][943]Warning: HotReload failed, recompile failed
+[2021.12.06-04.59.34:807][641]Candidate modules for hot reload:
+[2021.12.06-04.59.34:807][641]  MonkeyBall
+[2021.12.06-04.59.34:807][641]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBall,5428 MonkeyBallEditor Win64 Development -Project="C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject" "C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject"  -IgnoreJunk]
+[2021.12.06-04.59.34:862][641]Warning: Starting HotReload took  0.1s.
+[2021.12.06-04.59.37:862][972]CompilerResultsLog: New page: Compilation - Dec 5, 2021, 4:59:37 PM
+[2021.12.06-04.59.37:862][972]CompilerResultsLog: Building MonkeyBallEditor...
+[2021.12.06-04.59.37:862][972]CompilerResultsLog: Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.06-04.59.37:862][972]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.12.06-04.59.37:862][972]CompilerResultsLog:   [1/4] BasePlayer.cpp
+[2021.12.06-04.59.37:862][972]CompilerResultsLog:   [2/4] UE4Editor-MonkeyBall-5428.lib
+[2021.12.06-04.59.37:862][972]CompilerResultsLog:      Creating library C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBall\UE4Editor-MonkeyBall-5428.lib and object C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBall\UE4Editor-MonkeyBall-5428.exp
+[2021.12.06-04.59.37:862][972]CompilerResultsLog:   [3/4] UE4Editor-MonkeyBall-5428.dll
+[2021.12.06-04.59.37:862][972]CompilerResultsLog:      Creating library C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBall\UE4Editor-MonkeyBall-5428.suppressed.lib and object C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBall\UE4Editor-MonkeyBall-5428.suppressed.exp
+[2021.12.06-04.59.37:862][972]CompilerResultsLog:   [4/4] MonkeyBallEditor.target
+[2021.12.06-04.59.37:862][972]CompilerResultsLog: Total time in Parallel executor: 2.22 seconds
+[2021.12.06-04.59.37:862][972]CompilerResultsLog: Total execution time: 2.95 seconds
+[2021.12.06-04.59.37:862][972]LogMainFrame: MainFrame: Module compiling took 3.061 seconds
+[2021.12.06-04.59.37:879][972]LogClass: Could not find existing class BasePlayer in package /Script/MonkeyBall for HotReload, assuming new class
+[2021.12.06-04.59.37:879][972]LogClass: Function OnOverlapBegin is new.
+[2021.12.06-04.59.37:884][972]LogHotReload: Re-instancing BasePlayer after hot-reload.
+[2021.12.06-04.59.37:892][972]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MonkeyBall' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2021.12.06-04.59.37:894][972]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.12.06-04.59.37:936][972]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0079 seconds. Added 3825 classes and 930 folders.
+[2021.12.06-04.59.37:936][972]Display: HotReload took  3.1s.
+[2021.12.06-04.59.39:209][117]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.06-04.59.39:213][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-04.59.39:213][117]PIE: New page: PIE session: Level (Dec 5, 2021, 4:59:39 PM)
+[2021.12.06-04.59.39:261][117]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2021.12.06-04.59.39:263][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001915s)
+[2021.12.06-04.59.39:264][117]LogAIModule: Creating AISystem for world Level
+[2021.12.06-04.59.39:264][117]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2021.12.06-04.59.39:264][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.003143s)
+[2021.12.06-04.59.39:276][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.12.06-04.59.39:277][117]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.06-04.59.39:277][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-04.59.39:277][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-04.59.39:277][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-04.59.39:277][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-04.59.39:277][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-04.59.39:277][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-04.59.39:277][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-04.59.39:277][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-04.59.39:278][117]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-04.59.39:278][117]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-04.59.39:278][117]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-04.59.39:278][117]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-04.59.39:279][117]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-04.59.39:279][117]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-04.59.39:291][117]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.06-04.59.39:292][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-04.59.39:292][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-04.59.39:292][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-04.59.39:292][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-04.59.39:292][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-04.59.39:292][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-04.59.39:293][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-04.59.39:294][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-04.59.39:294][117]LogInit: FAudioDevice initialized.
+[2021.12.06-04.59.39:294][117]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level'.
+[2021.12.06-04.59.39:304][117]LogLoad: Game class is 'BP_MyGameMode_C'
+[2021.12.06-04.59.39:305][117]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2021.12.05-22.59.39
+[2021.12.06-04.59.39:305][117]LogWorld: Bringing up level for play took: 0.000688
+[2021.12.06-04.59.39:305][117]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.12.06-04.59.39:307][117]PIE: Server logged in
+[2021.12.06-04.59.39:308][117]PIE: Play in editor total start time 0.095 seconds.
+[2021.12.06-04.59.45:012][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-04.59.45:012][790]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2021.12.06-04.59.45:012][790]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-04.59.45:012][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-04.59.45:017][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-04.59.45:018][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-04.59.45:022][790]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-04.59.45:022][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-04.59.45:023][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-04.59.45:025][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-04.59.45:049][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.12.06-04.59.45:084][792]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.12.06-05.18.28:795][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.12.06-05.18.29:965][641]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.06-05.18.29:969][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-05.18.29:969][641]PIE: New page: PIE session: Level (Dec 5, 2021, 5:18:29 PM)
+[2021.12.06-05.18.30:010][641]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2021.12.06-05.18.30:013][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002795s)
+[2021.12.06-05.18.30:014][641]LogAIModule: Creating AISystem for world Level
+[2021.12.06-05.18.30:015][641]LogPlayLevel: PIE: World Init took: (0.002077s)
+[2021.12.06-05.18.30:015][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.005046s)
+[2021.12.06-05.18.30:021][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.12.06-05.18.30:022][641]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.06-05.18.30:022][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-05.18.30:022][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-05.18.30:022][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-05.18.30:022][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-05.18.30:022][641]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-05.18.30:022][641]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-05.18.30:022][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-05.18.30:022][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-05.18.30:023][641]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-05.18.30:023][641]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-05.18.30:023][641]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-05.18.30:023][641]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-05.18.30:025][641]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-05.18.30:025][641]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-05.18.30:038][641]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.06-05.18.30:038][641]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-05.18.30:038][641]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-05.18.30:038][641]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-05.18.30:039][641]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-05.18.30:039][641]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-05.18.30:039][641]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-05.18.30:040][641]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-05.18.30:040][641]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-05.18.30:040][641]LogInit: FAudioDevice initialized.
+[2021.12.06-05.18.30:040][641]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level'.
+[2021.12.06-05.18.30:050][641]LogLoad: Game class is 'BP_MyGameMode_C'
+[2021.12.06-05.18.30:051][641]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2021.12.05-23.18.30
+[2021.12.06-05.18.30:051][641]LogWorld: Bringing up level for play took: 0.000607
+[2021.12.06-05.18.30:051][641]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.12.06-05.18.30:053][641]PIE: Server logged in
+[2021.12.06-05.18.30:053][641]PIE: Play in editor total start time 0.085 seconds.
+[2021.12.06-05.18.56:572][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-05.18.56:572][819]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2021.12.06-05.18.56:572][819]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-05.18.56:573][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-05.18.56:582][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-05.18.56:584][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-05.18.56:590][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-05.18.56:590][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-05.18.56:591][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-05.18.56:594][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.12.06-05.18.56:648][824]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.12.06-05.24.19:791][554]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.06-05.24.19:795][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-05.24.19:795][554]PIE: New page: PIE session: Level (Dec 5, 2021, 5:24:19 PM)
+[2021.12.06-05.24.19:831][554]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2021.12.06-05.24.19:833][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002126s)
+[2021.12.06-05.24.19:834][554]LogAIModule: Creating AISystem for world Level
+[2021.12.06-05.24.19:834][554]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2021.12.06-05.24.19:834][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.003378s)
+[2021.12.06-05.24.19:839][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.12.06-05.24.19:840][554]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.12.06-05.24.19:840][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-05.24.19:840][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-05.24.19:840][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-05.24.19:840][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-05.24.19:840][554]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-05.24.19:840][554]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-05.24.19:840][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-05.24.19:840][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-05.24.19:840][554]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-05.24.19:840][554]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-05.24.19:840][554]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-05.24.19:840][554]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-05.24.19:842][554]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-05.24.19:842][554]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-05.24.19:852][554]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.06-05.24.19:853][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-05.24.19:853][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-05.24.19:853][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-05.24.19:853][554]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-05.24.19:853][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-05.24.19:853][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-05.24.19:854][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-05.24.19:854][554]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-05.24.19:854][554]LogInit: FAudioDevice initialized.
+[2021.12.06-05.24.19:854][554]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level'.
+[2021.12.06-05.24.19:859][554]LogLoad: Game class is 'BP_MyGameMode_C'
+[2021.12.06-05.24.19:860][554]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2021.12.05-23.24.19
+[2021.12.06-05.24.19:860][554]LogWorld: Bringing up level for play took: 0.000609
+[2021.12.06-05.24.19:860][554]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.12.06-05.24.19:862][554]PIE: Server logged in
+[2021.12.06-05.24.19:863][554]PIE: Play in editor total start time 0.068 seconds.
+[2021.12.06-05.24.29:523][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-05.24.29:524][708]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2021.12.06-05.24.29:524][708]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-05.24.29:524][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-05.24.29:536][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-05.24.29:537][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-05.24.29:544][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-05.24.29:544][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-05.24.29:545][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-05.24.29:549][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.12.06-05.24.29:586][711]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.12.06-05.40.01:892][916]Candidate modules for hot reload:
+[2021.12.06-05.40.01:892][916]  MonkeyBall
+[2021.12.06-05.40.01:892][916]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBall,0590 MonkeyBallEditor Win64 Development -Project="C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject" "C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject"  -IgnoreJunk]
+[2021.12.06-05.40.01:893][916]Warning: Starting HotReload took  0.0s.
+[2021.12.06-05.40.13:791][374]CompilerResultsLog: New page: Compilation - Dec 5, 2021, 5:40:13 PM
+[2021.12.06-05.40.13:791][374]CompilerResultsLog: Parsing headers for MonkeyBallEditor
+[2021.12.06-05.40.13:791][374]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\MonkeyBall.uproject" "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\MonkeyBallEditor\Development\MonkeyBallEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\tinhn\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.06-05.40.13:791][374]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.06-05.40.13:791][374]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h!
+[2021.12.06-05.40.13:791][374]CompilerResultsLog: Reflection code generated for MonkeyBallEditor in 10.3646241 seconds
+[2021.12.06-05.40.13:791][374]CompilerResultsLog: Building MonkeyBallEditor...
+[2021.12.06-05.40.13:791][374]CompilerResultsLog: Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.06-05.40.13:791][374]CompilerResultsLog: Building 7 actions with 8 processes...
+[2021.12.06-05.40.13:791][374]CompilerResultsLog:   [1/7] BasePlayer.cpp
+[2021.12.06-05.40.13:791][374]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(32) : error C2059: syntax error: ';'
+[2021.12.06-05.40.13:791][374]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(34) : error C2065: 'TriggerCapsule': undeclared identifier
+[2021.12.06-05.40.13:791][374]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(37) : error C2065: 'TriggerCapsule': undeclared identifier
+[2021.12.06-05.40.13:791][374]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(39) : error C2065: 'TriggerCapsule': undeclared identifier
+[2021.12.06-05.40.13:791][374]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(41) : error C2059: syntax error: '}'
+[2021.12.06-05.40.13:791][374]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(41) : error C2143: syntax error: missing ';' before '}'
+[2021.12.06-05.40.13:791][374]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(45) : error C2143: syntax error: missing ';' before '{'
+[2021.12.06-05.40.13:791][374]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(45) : error C2447: '{': missing function header (old-style formal list?)
+[2021.12.06-05.40.13:791][374]CompilerResultsLog:   [2/7] Item.cpp
+[2021.12.06-05.40.13:791][374]CompilerResultsLog:   [3/7] Item.gen.cpp
+[2021.12.06-05.40.13:791][374]CompilerResultsLog:   [4/7] BasePlayer.gen.cpp
+[2021.12.06-05.40.13:791][374]LogMainFrame: MainFrame: Module compiling took 11.917 seconds
+[2021.12.06-05.40.13:791][374]Warning: HotReload failed, recompile failed
+[2021.12.06-05.42.04:027][703]Candidate modules for hot reload:
+[2021.12.06-05.42.04:027][703]  MonkeyBall
+[2021.12.06-05.42.04:027][703]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBall,8907 MonkeyBallEditor Win64 Development -Project="C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject" "C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject"  -IgnoreJunk]
+[2021.12.06-05.42.04:029][703]Warning: Starting HotReload took  0.0s.
+[2021.12.06-05.42.05:006][797]CompilerResultsLog: New page: Compilation - Dec 5, 2021, 5:42:05 PM
+[2021.12.06-05.42.05:007][797]CompilerResultsLog: Building MonkeyBallEditor...
+[2021.12.06-05.42.05:007][797]CompilerResultsLog: Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.06-05.42.05:007][797]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.12.06-05.42.05:007][797]CompilerResultsLog:   [1/4] BasePlayer.cpp
+[2021.12.06-05.42.05:007][797]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(17) : error C2065: 'TriggerCapsule': undeclared identifier
+[2021.12.06-05.42.05:007][797]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(18) : error C2065: 'TriggerCapsule': undeclared identifier
+[2021.12.06-05.42.05:007][797]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.cpp(31) : error C2065: 'TriggerCapsule': undeclared identifier
+[2021.12.06-05.42.05:007][797]LogMainFrame: MainFrame: Module compiling took 0.981 seconds
+[2021.12.06-05.42.05:007][797]Warning: HotReload failed, recompile failed
+[2021.12.06-05.42.55:481][840]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-05.42.55:484][840]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-05.42.56:200][909]Candidate modules for hot reload:
+[2021.12.06-05.42.56:200][909]  MonkeyBall
+[2021.12.06-05.42.56:200][909]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBall,1765 MonkeyBallEditor Win64 Development -Project="C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject" "C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject"  -IgnoreJunk]
+[2021.12.06-05.42.56:201][909]Warning: Starting HotReload took  0.0s.
+[2021.12.06-05.43.01:688][525]CompilerResultsLog: New page: Compilation - Dec 5, 2021, 5:43:01 PM
+[2021.12.06-05.43.01:688][525]CompilerResultsLog: Parsing headers for MonkeyBallEditor
+[2021.12.06-05.43.01:688][525]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\MonkeyBall.uproject" "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\MonkeyBallEditor\Development\MonkeyBallEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\tinhn\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.06-05.43.01:688][525]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.06-05.43.01:688][525]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h!
+[2021.12.06-05.43.01:688][525]CompilerResultsLog: Reflection code generated for MonkeyBallEditor in 3.4742699 seconds
+[2021.12.06-05.43.01:688][525]CompilerResultsLog: Building MonkeyBallEditor...
+[2021.12.06-05.43.01:688][525]CompilerResultsLog: Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.06-05.43.01:688][525]CompilerResultsLog: Building 8 actions with 8 processes...
+[2021.12.06-05.43.01:688][525]CompilerResultsLog:   [1/8] Item.gen.cpp
+[2021.12.06-05.43.01:688][525]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C2143: syntax error: missing ';' before '*'
+[2021.12.06-05.43.01:688][525]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2021.12.06-05.43.01:688][525]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C2238: unexpected token(s) preceding ';'
+[2021.12.06-05.43.01:688][525]CompilerResultsLog:   [2/8] Item.cpp
+[2021.12.06-05.43.01:688][525]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C2143: syntax error: missing ';' before '*'
+[2021.12.06-05.43.01:688][525]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2021.12.06-05.43.01:688][525]CompilerResultsLog:    C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h(66) : error C2238: unexpected token(s) preceding ';'
+[2021.12.06-05.43.01:688][525]CompilerResultsLog:   [3/8] MonkeyBall.init.gen.cpp
+[2021.12.06-05.43.01:688][525]CompilerResultsLog:   [4/8] BasePlayer.gen.cpp
+[2021.12.06-05.43.01:688][525]CompilerResultsLog:   [5/8] BasePlayer.cpp
+[2021.12.06-05.43.01:688][525]LogMainFrame: MainFrame: Module compiling took 5.491 seconds
+[2021.12.06-05.43.01:688][525]Warning: HotReload failed, recompile failed
+[2021.12.06-05.43.23:620][512]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-05.43.23:622][512]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-05.43.24:507][611]Candidate modules for hot reload:
+[2021.12.06-05.43.24:507][611]  MonkeyBall
+[2021.12.06-05.43.24:507][611]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MonkeyBall,3629 MonkeyBallEditor Win64 Development -Project="C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject" "C:/Users/tinhn/OneDrive/Documents/Unreal Projects/MonkeyBall/MonkeyBall.uproject"  -IgnoreJunk]
+[2021.12.06-05.43.24:508][611]Warning: Starting HotReload took  0.0s.
+[2021.12.06-05.43.30:959][357]CompilerResultsLog: New page: Compilation - Dec 5, 2021, 5:43:30 PM
+[2021.12.06-05.43.30:959][357]CompilerResultsLog: Parsing headers for MonkeyBallEditor
+[2021.12.06-05.43.30:959][357]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\MonkeyBall.uproject" "C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\MonkeyBallEditor\Development\MonkeyBallEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\tinhn\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.06-05.43.30:959][357]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.12.06-05.43.30:959][357]CompilerResultsLog: LogCompile: Error: Circular dependency detected for filename C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Source\MonkeyBall\BasePlayer.h!
+[2021.12.06-05.43.30:959][357]CompilerResultsLog: Reflection code generated for MonkeyBallEditor in 3.4398681 seconds
+[2021.12.06-05.43.30:959][357]CompilerResultsLog: Building MonkeyBallEditor...
+[2021.12.06-05.43.30:959][357]CompilerResultsLog: Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.06-05.43.30:959][357]CompilerResultsLog: Building 7 actions with 8 processes...
+[2021.12.06-05.43.30:959][357]CompilerResultsLog:   [1/7] Item.cpp
+[2021.12.06-05.43.30:959][357]CompilerResultsLog:   [2/7] BasePlayer.gen.cpp
+[2021.12.06-05.43.30:959][357]CompilerResultsLog:   [3/7] Item.gen.cpp
+[2021.12.06-05.43.30:959][357]CompilerResultsLog:   [4/7] BasePlayer.cpp
+[2021.12.06-05.43.30:959][357]CompilerResultsLog:   [5/7] UE4Editor-MonkeyBall-3629.lib
+[2021.12.06-05.43.30:959][357]CompilerResultsLog:      Creating library C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBall\UE4Editor-MonkeyBall-3629.lib and object C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBall\UE4Editor-MonkeyBall-3629.exp
+[2021.12.06-05.43.30:959][357]CompilerResultsLog:   [6/7] UE4Editor-MonkeyBall-3629.dll
+[2021.12.06-05.43.30:959][357]CompilerResultsLog:      Creating library C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBall\UE4Editor-MonkeyBall-3629.suppressed.lib and object C:\Users\tinhn\OneDrive\Documents\Unreal Projects\MonkeyBall\Intermediate\Build\Win64\UE4Editor\Development\MonkeyBall\UE4Editor-MonkeyBall-3629.suppressed.exp
+[2021.12.06-05.43.30:959][357]CompilerResultsLog:   [7/7] MonkeyBallEditor.target
+[2021.12.06-05.43.30:959][357]CompilerResultsLog: Total time in Parallel executor: 2.17 seconds
+[2021.12.06-05.43.30:959][357]CompilerResultsLog: Total execution time: 6.40 seconds
+[2021.12.06-05.43.30:959][357]LogMainFrame: MainFrame: Module compiling took 6.454 seconds
+[2021.12.06-05.43.30:978][357]LogClass: Could not find existing class BasePlayer in package /Script/MonkeyBall for HotReload, assuming new class
+[2021.12.06-05.43.30:978][357]LogClass: Function OnOverlapBegin is new.
+[2021.12.06-05.43.30:985][357]LogHotReload: Re-instancing BasePlayer after hot-reload.
+[2021.12.06-05.43.30:994][357]LogHotReload: Re-instancing Item after hot-reload.
+[2021.12.06-05.43.31:010][357]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MonkeyBall' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2021.12.06-05.43.31:015][357]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.12.06-05.43.31:077][357]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0096 seconds. Added 3825 classes and 930 folders.
+[2021.12.06-05.43.31:077][357]Display: HotReload took  6.6s.
+[2021.12.06-05.43.33:908][688]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.06-05.43.33:913][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-05.43.33:913][688]PIE: New page: PIE session: Level (Dec 5, 2021, 5:43:33 PM)
+[2021.12.06-05.43.33:941][688]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2021.12.06-05.43.33:943][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002281s)
+[2021.12.06-05.43.33:944][688]LogAIModule: Creating AISystem for world Level
+[2021.12.06-05.43.33:944][688]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2021.12.06-05.43.33:944][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.003444s)
+[2021.12.06-05.43.33:949][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.12.06-05.43.33:950][688]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.12.06-05.43.33:950][688]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-05.43.33:950][688]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-05.43.33:950][688]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-05.43.33:950][688]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-05.43.33:950][688]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-05.43.33:950][688]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-05.43.33:950][688]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-05.43.33:950][688]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-05.43.33:951][688]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-05.43.33:951][688]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-05.43.33:951][688]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-05.43.33:951][688]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-05.43.33:952][688]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-05.43.33:952][688]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-05.43.33:964][688]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.12.06-05.43.33:964][688]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-05.43.33:965][688]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-05.43.33:965][688]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-05.43.33:965][688]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-05.43.33:965][688]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-05.43.33:965][688]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-05.43.33:966][688]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-05.43.33:966][688]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-05.43.33:966][688]LogInit: FAudioDevice initialized.
+[2021.12.06-05.43.33:966][688]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level'.
+[2021.12.06-05.43.33:974][688]LogLoad: Game class is 'BP_MyGameMode_C'
+[2021.12.06-05.43.33:975][688]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2021.12.05-23.43.33
+[2021.12.06-05.43.33:975][688]LogWorld: Bringing up level for play took: 0.000533
+[2021.12.06-05.43.33:975][688]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.12.06-05.43.33:983][688]LogUObjectBase: Error: 'this' pointer is invalid.
+[2021.12.06-05.43.33:983][688]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.12.06-05.43.33:983][688]LogWindows: Windows GetLastError: The operation completed successfully. (0)
